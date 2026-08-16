@@ -1,6 +1,6 @@
 {
-  "version": "1.1.3",
-  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.1.3/TURA_Setup_v1.1.3.exe",
-  "changelog": "🚀 TURA v1.1.3 Güncellemesi:\n• Sadakat Puanı ile gelen linkler elmas önceliğiyle Link Toplayıcı'ya eklendi.\n• OBS Video/Medya sadakat kutusu açılışında siyah/yeşil boş çerçeve sorunu ve decode gecikmesi giderildi.\n• Link toplayıcı filtreleri, TURBOT ve Arena ayarlarının kalıcı saklanması tamamlandı.",
+  "version": "1.1.4",
+  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.1.4/TURA_Setup_v1.1.4.exe",
+  "changelog": "🚀 TURA v1.1.4 Güncellemesi:\n• Normal sohbet mesajları ile Sadakat Puanı ödül linklerinin ayrımı kusursuzlaştırıldı.\n• Sadakat ödülü linkleri elmas rozeti ve öncelikle kuyruğun en başında listelenir.\n• Masaüstü piksel simgesi ve otomatik güncelleme motoru tam stabiliteye ulaştırıldı.",
   "release_date": "16.08.2026"
 }
