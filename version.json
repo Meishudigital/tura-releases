@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.0.1/TURA_Setup_v1.0.1.exe",
-  "changelog": "• Genel Bakış ekranına canlı Toplam Takipçi sayısı eklendi!\n• Sistem kararlılığı artırıldı.",
+  "version": "1.0.2",
+  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.0.2/TURA_Setup_v1.0.2.exe",
+  "changelog": "• Canlı İndirme İlerleme Çubuğu ve Boyut (MB / %) Göstergesi eklendi.\n• Güncelleme ekranı kullanıcı deneyimi mükemmelleştirildi.\n• Genel Bakış ekranına canlı Toplam Takipçi sayısı eklendi.",
   "release_date": "16.08.2026"
 }
