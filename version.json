@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.0.5/TURA_Setup_v1.0.5.exe",
-  "changelog": "• Pencere açılış konumu tam ekran merkezine yerleştirildi.\n• Ekranı Kapla / Tam Ekran (Maximize) butonu kararlı hale getirildi.\n• Arka plan otomatik güncelleme indirme motoru güçlendirildi.",
+  "version": "1.0.6",
+  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.0.6/TURA_Setup_v1.0.6.exe",
+  "changelog": "• Güncelleme sonrası otomatik yeniden başlatma ve masaüstü yenileme desteği eklendi.\n• Masaüstü kısayolu kalıcı ve garantili hale getirildi.\n• Ekran merkezleme ve tam ekran kontrolü optimize edildi.",
   "release_date": "16.08.2026"
 }
