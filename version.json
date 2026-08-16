@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.2.1/TURA_Setup_v1.2.1.exe",
-  "changelog": "🚀 TURA v1.2.1 Güncellemesi:\n• Pencere kontrol butonları (küçültme, büyütme) tam stabil hale getirildi.\n• Uygulama kapatma tuşuna şık onay güvenlik penceresi eklendi.\n• Kanal ve sohbet ayarları (403 hatası) çözüldü, tüm toggle switchler aktif.",
+  "version": "1.2.2",
+  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.2.2/TURA_Setup_v1.2.2.exe",
+  "changelog": "🚀 TURA v1.2.2 Güncellemesi:\n• Güncelleme yeniden başlatma güvenlik hatası (parent process validation) tamamen giderildi.\n• Pencere kontrol butonları (küçültme, büyütme, kapatma onay modalı) aktif.\n• Kanal ve sohbet ayarları 403 hatası giderildi.",
   "release_date": "17.08.2026"
 }
