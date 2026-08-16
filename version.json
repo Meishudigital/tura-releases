@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.0.7/TURA_Setup_v1.0.7.exe",
-  "changelog": "• Dosya kilitleme ve erişim engeli (DeleteFile Kod 5) tamamen çözüldü.\n• Kurulum esnasında eski süreçler otomatik ve güvenle sonlandırılır.\n• Otomatik yeniden başlatma ve masaüstü yenileme entegrasyonu tamamlandı.",
+  "version": "1.0.9",
+  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.0.9/TURA_Setup_v1.0.9.exe",
+  "changelog": "• Yeni 'Medya & Link Toplayıcı' modülü eklendi!\n• Cümle içi karışık chat mesajlarından YouTube, TikTok, Kick klip ve medya linkleri akıllıca ayıklanır.\n• Özel koyu & neon yeşil scrollbar tasarımı uygulandı.\n• Popüler sıralama, tek tıkla tarayıcıda açma ve izleme geçmişi eklendi.",
   "release_date": "16.08.2026"
 }
