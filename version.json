@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.1.0/TURA_Setup_v1.1.0.exe",
-  "changelog": "• Yeni TURA Masaüstü ve İstasyon Logosu uygulandı!\n• Kurulum sonrası otomatik başlatma ve çalışma dizini (Directory Launch) sorunu tamamen çözüldü.\n• 'Medya & Link Toplayıcı' modülü ve özel neon scrollbar aktif edildi.",
+  "version": "1.1.1",
+  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.1.1/TURA_Setup_v1.1.1.exe",
+  "changelog": "• Canlı Chatten Link Toplama motorundaki hata düzeltildi; artık tüm medya linkleri anında kuyruğa eklenir.\n• Sadakat puanı ses ve süre slider'larını kaydırırken pencerenin sürüklenme sorunu tamamen çözüldü.\n• Yeni TURA ikon ve görsel varlıkları güncellendi.",
   "release_date": "16.08.2026"
 }
