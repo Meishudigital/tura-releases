@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.0.3/TURA_Setup_v1.0.3.exe",
-  "changelog": "• Gömülü Çerçevesiz Pencere (Frameless) & Özel Başlık Çubuğu eklendi.\n• TURA logolu açılış yükleme (Splash) ekranı entegre edildi.\n• Yayıncı profili ve pixel fontlu 'BAŞLAT' karşılama ekranı eklendi.\n• Güncelleme indirirken anlık MB ve % göstergesi eklendi.",
+  "version": "1.0.4",
+  "download_url": "BURAYA_KOPYALADIGINIZ_V1.0.4_BAGLANTI_ADRESINI_YAPISTIRIN",
+  "changelog": "• Gömülü Çerçevesiz Pencere (Frameless) & Özel Başlık Çubuğu eklendi.\n• TURA logolu açılış yükleme (Splash) ekranı entegre edildi.\n• Yayıncı profili ve pixel fontlu 'BAŞLAT' karşılama ekranı eklendi.\n• Güncelleme indirirken anlık MB ve % canlı ilerleme çubuğu eklendi.",
   "release_date": "16.08.2026"
 }
