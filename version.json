@@ -1,6 +1,6 @@
 {
-  "version": "1.1.5",
-  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.1.5/TURA_Setup_v1.1.5.exe",
-  "changelog": "🚀 TURA v1.1.5 Güncellemesi:\n• Bağımsız (detached) PowerShell güncelleme motoru ile %100 kusursuz otomatik kurulum ve yeniden başlatma.\n• Normal sohbet linkleri ve Sadakat Ödülü linklerinin tam ayrımı.",
+  "version": "1.1.6",
+  "download_url": "https://github.com/Meishudigital/tura-releases/releases/download/v1.1.6/TURA_Setup_v1.1.6.exe",
+  "changelog": "🚀 TURA v1.1.6 Güncellemesi:\n• Canlı yayın izleyici sayısı, kategori, takipçi sayısı ve profil resmi entegrasyonu tamamen yenilendi.\n• Chat Clash Arena oyunu kapak görseli geri eklendi.\n• Otomatik güncelleme motoru tam bağımsız mimariyle test edilmeye hazır.",
   "release_date": "16.08.2026"
 }
